@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Orbis Disable Send User Notification Checkbox
-Plugin URI: https://github.com/wp-orbis
-Description: The Orbis Disable Send User Notification Checkbox plugin disables the 'Send User Notification' checkbox.
+Plugin URI: https://github.com/wp-orbis/wp-orbis-disable-send-user-notification-checkbox
+Description: The 'Orbis Disable Send User Notification Checkbox' plugin disables the 'Send User Notification' checkbox.
 
 Version: 1.0.0
 Requires at least: 3.5
